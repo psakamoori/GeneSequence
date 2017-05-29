@@ -11,9 +11,9 @@ Have neon repo sync'd to local host and follow the steps to build the repo: http
 
 Place files given in this repo accordingly
 
-gene.py -> ~/neon/neon/data/.
-splice_train_val.py -> ~/neon/examples/gene/.   (make dir gene)
-spliace_data_CAGT.csv -> ~/neon/examples/gene/.
+#### gene.py -> ~/neon/neon/data/.
+#### splice_train_val.py -> ~/neon/examples/gene/.   (make dir gene)
+#### spliace_data_CAGT.csv -> ~/neon/examples/gene/.
 
 # Command to Traing and Validate
 
