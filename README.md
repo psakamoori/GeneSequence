@@ -15,7 +15,7 @@ Place files given in this repo accordingly
 #### splice_train_val.py -> ~/neon/examples/gene/.   (make dir gene)
 #### spliace_data_CAGT.csv -> ~/neon/examples/gene/.
 
-# Command to Traing and Validate
+# Command to Train and Validate
 
 ~/neon/examples/gene/$ python splice_train_val.py
 
