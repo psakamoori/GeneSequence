@@ -1,7 +1,7 @@
 # GeneSequence
 Neon code for Splice Junction Gene Sequence classification (EI / IE / Neither)
 
-# Training Splcie Junction gene data using Neon Framework
+# Training Splice Junction gene data using Neon Framework
 Ref: "https://archive.ics.uci.edu/ml/datasets/Molecular+Biology+%28Splice-junction+Gene+Sequences%29"
 
 # Setup
